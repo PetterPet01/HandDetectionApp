@@ -1,5 +1,5 @@
 # HandDetectionApp
-A demo hand detection application using basic CV. Bounding boxes with matching angles are implemented.
+A demo hand detection application using basic CV. Bounding boxes with matching angles are implemented. Finished on 2/2020.
 
 # Credits
 PetterPet (Ho Minh Quan)
